@@ -1,0 +1,10 @@
+print('English                      | Translation(Yoruba)')
+print('Good morning                 | Ekaaro')
+print('It is a pleasure to meet you | Inu mi dun la ti ri yin')
+print('Please call me tomorrow      | Ejo epe mi ni ola')
+print('Have a nice day!             | Eni ojo ti o daa!')
+
+print('English                      | Translation(Hausa)')
+print('Good morning                 | Ina kwana')
+print('It is a pleasure to meet you | Na ji da di de gan ni ka')
+print('Please call me tomorrow      | Ka kira ni gobe')
